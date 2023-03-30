@@ -2,7 +2,6 @@
 //  DetailViewController.swift
 //  lab-tunley
 //
-//  Created by Charlie Hieger on 12/5/22.
 //
 
 import UIKit
