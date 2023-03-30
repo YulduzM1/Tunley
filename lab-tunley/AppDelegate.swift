@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  lab-tunley
 //
-//  Created by Charlie Hieger on 12/1/22.
 //
 
 import UIKit
